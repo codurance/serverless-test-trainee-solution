@@ -1,0 +1,1 @@
+# serverless-test-trainee-solution
